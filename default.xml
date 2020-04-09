@@ -6,5 +6,5 @@
   <default remote="origin"
            revision="master" />
 
-  <project path="repo-demo/app_proc" name="rbutton" />
+  <project path="app_proc/poky/meta-rivian" name="meta-rivian" />
 </manifest>
