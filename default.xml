@@ -6,5 +6,5 @@
   <default remote="origin"
            revision="master" />
 
-  <project path="repo-demo/app_proc" name="git@github.com:allenchang/rbutton.git" />
+  <project path="repo-demo/app_proc" name="https://github.com/allenchang/rbutton.git" />
 </manifest>
